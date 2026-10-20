@@ -10,6 +10,8 @@ Sitio web de una cafetería ficticia desarrollado con HTML, CSS y JavaScript.
 
 ## Instalación
 
-1. Descarga o clona el repositorio.
-2. Abre el proyecto en VS Code.
-3. Ejecuta las páginas HTML en tu navegador mediante Live Server.
+1. Clona o descarga el repositorio desde GitHub.
+2. Abre la carpeta `sitio-cafe-aroma` en Visual Studio Code.
+3. Para visualizar las páginas, abre `index.html` en tu navegador.
+4. También puedes utilizar la extensión Live Server de VS Code para visualizar los cambios durante el desarrollo.
+
